@@ -18,7 +18,7 @@ if [ $num_process -gt 1 ]; then
     --task_name classification \
     --is_training 1 \
     --root_path ./dataset/traffic/ \
-    --data_path tor_100w_2500tr.csv \
+    --data_path AWF_CW.csv \
     --model_id traffic_classification \
     --model $model_name \
     --data TrafficClassification \
@@ -44,7 +44,7 @@ else
     --task_name classification \
     --is_training 1 \
     --root_path ./dataset/traffic/ \
-    --data_path tor_100w_2500tr.csv \
+    --data_path AWF_CW.csv \
     --model_id traffic_classification \
     --model $model_name \
     --data TrafficClassification \
