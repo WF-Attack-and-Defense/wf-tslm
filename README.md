@@ -38,7 +38,7 @@ pip install -r requirements.txt
 ```
 
 ## Datasets
-You can access the well pre-processed datasets from [[Google Drive]](https://drive.google.com/file/d/1cNiavlv16REZ3l2PsAhpiyVIau3_X1He/view?usp=drive_link), then place the downloaded contents under `./dataset`
+You can access the well pre-processed datasets from [[Google Drive]]([https://drive.google.com/file/d/1cNiavlv16REZ3l2PsAhpiyVIau3_X1He/view?usp=drive_link](https://drive.google.com/drive/folders/1TfsvBsU403xubQJqGNevk9ium6yyOZCf?usp=drive_link)), then place the downloaded contents under `./dataset`
 
 ## Quick Demos
 1. Download datasets and place them under `./dataset`
