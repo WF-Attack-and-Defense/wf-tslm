@@ -57,7 +57,7 @@ Please refer to ```run_main.py``` and ```run_pretrain.py``` for the detailed des
 
 As one of the earliest works exploring the intersection of large language models and time series, we sincerely thank the open-source community for supporting our research. While we do not plan to make major updates to the main Time-LLM codebase, we still welcome **constructive pull requests** to help maintain and improve it.
 
-🌟 Please check out our team’s latest research projects listed below. 
+🌟 Please check out the referenced research projects listed below. 
 
 1, [**Time-LLM: Time series forecasting by reprogramming large language models**](https://arxiv.org/abs/2310.01728), *arXiv* 2024.
 
